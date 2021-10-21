@@ -4,7 +4,7 @@ An ICE example for cargo fix
 To reproduce:
 ```
 $ cargo fix --edition
-    Checking qipice v0.1.0 (/home/sumner/git/RustQIP_ICE)
+    Checking qipice v0.1.0 (.../git/RustQIP_ICE)
    Migrating src/lib.rs from 2018 edition to 2021
 error: overflow while checking whether `FeynmanState<P>` requires drop
 
